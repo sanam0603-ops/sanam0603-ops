@@ -9,8 +9,8 @@ In 2024 I founded [Sunnyworks.AI](https://sunnyworks.ai), an operations studio f
 **What I actually do with AI:** I use it to build and test operational workflows (n8n, Copilot, ChatGPT) — not to generate hype. I write up what I find honestly, including when it breaks.
 
 - 🔍 **Real example:** [An n8n workflow I built, broke, and fixed](https://sunnyworks.ai/n8n-case-study.html) — two real defects found and repaired, verified end to end, no inflated claims.
-- 📋 **Free templates:** [AI Governance Starter Kit](https://github.com/sanam0603-ops/ai-governance-starter-kit) — the same governance templates live on sunnyworks.ai, here as plain markdown.
-- 🧩 **System design:** [Approval-Only Outbound Engine](https://github.com/sanam0603-ops/approval-only-outbound-engine) — a safety-gated n8n workflow design (schema, prompts, guardrails). Design spec, not yet deployed.
+- 📋 **Free templates:** [AI Governance Starter Kit](https://github.com/sunnyworks-ai/ai-governance-starter-kit) — the same governance templates live on sunnyworks.ai, here as plain markdown.
+- 🧩 **System design:** [Approval-Only Outbound Engine](https://github.com/sunnyworks-ai/approval-only-outbound-engine) — a safety-gated n8n workflow design (schema, prompts, guardrails). Design spec, not yet deployed.
 - 🎓 PMP · Certified ScrumMaster · Lean Six Sigma Green Belt
 
 ## Products I've built
