@@ -4,7 +4,7 @@ Program & Operations Leader · Vendor & Contract Governance · Process Improveme
 
 I spent 8+ years building governance and reporting systems inside Fortune 500 environments — including Accenture and AARP — closing compliance gaps across large vendor and contract portfolios and standing up executive reporting where none existed before.
 
-In 2024 I founded [Sunnyworks.AI](https://sunnyworks.ai), an operations studio for founder-led businesses. I investigate and repair broken operational workflows, and I build free governance resources (AI use policies, decision logs, tool inventories) for small businesses trying to use AI safely without a compliance team.
+In 2026 I founded [Sunnyworks.AI](https://sunnyworks.ai), an operations studio for founder-led businesses. I investigate and repair broken operational workflows, and I build free governance resources (AI use policies, decision logs, tool inventories) for small businesses trying to use AI safely without a compliance team.
 
 **What I actually do with AI:** I use it to build and test operational workflows (n8n, Copilot, ChatGPT) — not to generate hype. I write up what I find honestly, including when it breaks.
 
