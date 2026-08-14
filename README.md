@@ -10,7 +10,13 @@ In 2024 I founded [Sunnyworks.AI](https://sunnyworks.ai), an operations studio f
 
 - 🔍 **Real example:** [An n8n workflow I built, broke, and fixed](https://sunnyworks.ai/n8n-case-study.html) — two real defects found and repaired, verified end to end, no inflated claims.
 - 📋 **Free templates:** [AI Governance Starter Kit](https://github.com/sanam0603-ops/ai-governance-starter-kit) — the same governance templates live on sunnyworks.ai, here as plain markdown.
+- 🧩 **System design:** [Approval-Only Outbound Engine](https://github.com/sanam0603-ops/approval-only-outbound-engine) — a safety-gated n8n workflow design (schema, prompts, guardrails). Design spec, not yet deployed.
 - 🎓 PMP · Certified ScrumMaster · Lean Six Sigma Green Belt
+
+## Products I've built
+
+- **[AI Tool Tracker & Stack Optimizer](https://sunnyworksai.gumroad.com/l/AIToolTrackerandStackOptimizer)** — a free Notion template for tracking AI tool spend and cutting overlap. Live on [Notion Marketplace](https://www.notion.com/templates/ai-tool-tracker-stack-optimizer) and Gumroad.
+- **The Founder Operating System** — a nine-section Notion system that helps founders write down how their business actually runs (stack, workflows, AI boundaries, ownership, decisions). Built and complete; not yet released for sale.
 
 📫 sanam0603@gmail.com · [LinkedIn](https://linkedin.com/in/sanamanwarali) · [sunnyworks.ai](https://sunnyworks.ai)
 
